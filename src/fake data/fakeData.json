@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "image": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/4570/production/_106467771_shakib_al_hasan_getty.jpg",
+    "name": "Shakib Al Hasan",
+    "Born": "Mar 24, 1987 (33 years)",
+    "Nationality": "Bangladeshi",
+    "Role": "Batting All-rounder",
+    "Auction Price": 400000
+  },
+  {
+    "id": 2,
+    "image": "http://celebswikis.biz/wp-content/uploads/2018/04/Tamim-Iqbal.jpg",
+    "name": "Tamim Iqbal",
+    "Born": "Mar 20, 1989 (31 years)",
+    "Nationality": "Bangladeshi",
+    "Role": "Batsmann",
+    "Auction Price": 370000
+  },
+
+  {
+    "id": 3,
+    "image": "https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/rahim150601.jpg",
+    "name": "Mushfiqur Rahim",
+    "Born": "Jun 09, 1987 (33 years)",
+    "Nationality": "Bangladeshi",
+    "Role": "WK-Batsman",
+    "Auction Price": 370000
+  },
+  {
+    "id": 4,
+    "image": "http://s.ndtvimg.com/images/content/2014/jun/806/mashrafe-mortaza.jpg",
+    "name": "Mashrafe Mortaza",
+    "Born": "Oct 05, 1983 (37 years)",
+    "Nationality": "Bangladeshi",
+    "Role": "Bowler",
+    "Auction Price": 320000
+  },
+
+  {
+    "id": 5,
+    "image": "https://www.biographybd.com/wp-content/uploads/2015/03/10995117_10155148037640357_.jpg",
+    "name": "Mahmudullah",
+    "Born": "Feb 04, 1986 (35 years)",
+    "Nationality": "Bangladeshi",
+    "Role": "Batting All-rounder",
+    "Auction Price": 300000
+  },
+  {
+    "id": 6,
+    "image": "https://www.cricketwizard.com/wp-content/uploads/2017/03/taskin-ahmed.jpg",
+    "name": "Taskin Ahmed",
+    "Born": "Mar 04, 1995 (25 years)",
+    "Nationality": "Bangladeshi",
+    "Role": "Bowler",
+    "Auction Price": 240000
+  },
+
+  {
+    "id": 7,
+    "image": "https://www.bdcrictime.com/wp-content/uploads/2019/03/Mustafizur-Rahman.jpg",
+    "name": "Mustafizur Rahman",
+    "Born": "Sep 06, 1995 (25 years)",
+    "Nationality": "Bangladeshi",
+    "Role": "Bowler",
+    "Auction Price": 250000
+  },
+  {
+    "id": 8,
+    "image": "https://www.cricketworldcup2019schedule.com/wp-content/uploads/2019/02/Rubel-Hossain.jpeg",
+    "name": "Rubel Hossain",
+    "Born": "Jan 01, 1990 (31 years)",
+    "Nationality": "Bangladeshi",
+    "Role": "Bowler",
+    "Auction Price": 210000
+  },
+
+  {
+    "id": 9,
+    "image": "https://celebnetworth.net/wp-content/uploads/2020/05/Steven-Smith-.jpg",
+    "name": "Steven Smith",
+    "Born": "Jun 02, 1989 (31 years)",
+    "Nationality": "Australian",
+    "Role": "Batsman",
+    "Auction Price": 435000
+  },
+  {
+    "id": 10,
+    "image": "https://i.pinimg.com/originals/0e/2f/b0/0e2fb05aac9bbbb21a331d3f644538e7.jpg",
+    "name": "David Warner",
+    "Born": "Oct 27, 1986 (34 years)",
+    "Nationality": "Australian",
+    "Role": "Batsmann",
+    "Auction Price": 350000
+  },
+
+  {
+    "id": 11,
+    "image": "https://statics.sportskeeda.com/editor/2018/03/fb388-1520238944-800.jpg",
+    "name": "Nathan Lyon",
+    "Born": "Nov 20, 1987 (33 years)",
+    "Nationality": "Australian",
+    "Role": "Bowler",
+    "Auction Price": 300000
+  },
+  {
+    "id": 12,
+    "image": "https://i.pinimg.com/736x/dd/bd/3b/ddbd3b20054d64800313b3759a98cf3f--corey-anderson-cricket.jpg",
+    "name": "Corey Anderson",
+    "Born": "Dec 13, 1990 (30 years)",
+    "Nationality": "New Zealand",
+    "Role": "Batting All-rounder",
+    "Auction Price": 370000
+  },
+
+  {
+    "id": 13,
+    "image": "https://ichef.bbci.co.uk/onesport/cps/480/cpsprodpb/189D/production/_100310360_cbee504d-3edb-47a6-8e75-596e69c6b1db.jpg",
+    "name": "Ross Taylor",
+    "Born": "Mar 08, 1984 (36 years)",
+    "Nationality": "New Zealand",
+    "Role": "Batsman",
+    "Auction Price": 275000
+  },
+  {
+    "id": 14,
+    "image": "https://cdn.kalingatv.com/wp-content/uploads/2018/12/virat-kohli.jpg",
+    "name": "Virat Kohli",
+    "Born": "Nov 05, 1988 (32 years)",
+    "Nationality": "Indian",
+    "Role": "Batsmann",
+    "Auction Price": 470000
+  },
+
+  {
+    "id": 15,
+    "image": "https://imagevars.gulfnews.com/2019/06/06/India-s-Rohit-Sharma_16b2cfa4978_large.jpg",
+    "name": "Rohit Sharma",
+    "Born": "Apr 30, 1987 (33 years)",
+    "Nationality": "Indian",
+    "Role": "Batsman",
+    "Auction Price": 340000
+  },
+  {
+    "id": 16,
+    "image": "https://www.sportzcraazy.com/wp-content/uploads/2020/02/ms-dhoni.jpeg",
+    "name": "MS Dhoni",
+    "Born": "Jul 07, 1981 (39 years)",
+    "Nationality": "Indian",
+    "Role": "WK-Batsman",
+    "Auction Price": 350000
+  }
+]
