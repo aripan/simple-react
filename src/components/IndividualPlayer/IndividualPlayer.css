@@ -1,0 +1,6 @@
+.individual-player {
+  text-align: center;
+  width: 250px;
+  height: auto;
+  border: 1px dashed red;
+}
