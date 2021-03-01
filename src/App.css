@@ -1,0 +1,21 @@
+.header {
+  grid-area: header;
+}
+
+.players-container {
+  grid-area: players;
+}
+
+.team-container {
+  grid-area: team;
+}
+
+.App {
+  display: grid;
+  grid-template-columns: 2fr 1fr 0.5fr 0.5fr;
+  grid-template-rows: 3% 97%;
+
+  grid-template-areas:
+    "header header header header"
+    "players players . team";
+}
