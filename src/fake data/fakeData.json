@@ -6,7 +6,7 @@
     "Born": "Mar 24, 1987 (33 years)",
     "Nationality": "Bangladeshi",
     "Role": "Batting All-rounder",
-    "Auction Price": 400000
+    "Auction": 400000
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "Born": "Mar 20, 1989 (31 years)",
     "Nationality": "Bangladeshi",
     "Role": "Batsmann",
-    "Auction Price": 370000
+    "Auction": 370000
   },
 
   {
@@ -25,7 +25,7 @@
     "Born": "Jun 09, 1987 (33 years)",
     "Nationality": "Bangladeshi",
     "Role": "WK-Batsman",
-    "Auction Price": 370000
+    "Auction": 370000
   },
   {
     "id": 4,
@@ -34,7 +34,7 @@
     "Born": "Oct 05, 1983 (37 years)",
     "Nationality": "Bangladeshi",
     "Role": "Bowler",
-    "Auction Price": 320000
+    "Auction": 320000
   },
 
   {
@@ -44,7 +44,7 @@
     "Born": "Feb 04, 1986 (35 years)",
     "Nationality": "Bangladeshi",
     "Role": "Batting All-rounder",
-    "Auction Price": 300000
+    "Auction": 300000
   },
   {
     "id": 6,
@@ -53,7 +53,7 @@
     "Born": "Mar 04, 1995 (25 years)",
     "Nationality": "Bangladeshi",
     "Role": "Bowler",
-    "Auction Price": 240000
+    "Auction": 240000
   },
 
   {
@@ -63,7 +63,7 @@
     "Born": "Sep 06, 1995 (25 years)",
     "Nationality": "Bangladeshi",
     "Role": "Bowler",
-    "Auction Price": 250000
+    "Auction": 250000
   },
   {
     "id": 8,
@@ -72,7 +72,7 @@
     "Born": "Jan 01, 1990 (31 years)",
     "Nationality": "Bangladeshi",
     "Role": "Bowler",
-    "Auction Price": 210000
+    "Auction": 210000
   },
 
   {
@@ -82,7 +82,7 @@
     "Born": "Jun 02, 1989 (31 years)",
     "Nationality": "Australian",
     "Role": "Batsman",
-    "Auction Price": 435000
+    "Auction": 435000
   },
   {
     "id": 10,
@@ -91,7 +91,7 @@
     "Born": "Oct 27, 1986 (34 years)",
     "Nationality": "Australian",
     "Role": "Batsmann",
-    "Auction Price": 350000
+    "Auction": 350000
   },
 
   {
@@ -101,7 +101,7 @@
     "Born": "Nov 20, 1987 (33 years)",
     "Nationality": "Australian",
     "Role": "Bowler",
-    "Auction Price": 300000
+    "Auction": 300000
   },
   {
     "id": 12,
@@ -110,7 +110,7 @@
     "Born": "Dec 13, 1990 (30 years)",
     "Nationality": "New Zealand",
     "Role": "Batting All-rounder",
-    "Auction Price": 370000
+    "Auction": 370000
   },
 
   {
@@ -120,7 +120,7 @@
     "Born": "Mar 08, 1984 (36 years)",
     "Nationality": "New Zealand",
     "Role": "Batsman",
-    "Auction Price": 275000
+    "Auction": 275000
   },
   {
     "id": 14,
@@ -129,7 +129,7 @@
     "Born": "Nov 05, 1988 (32 years)",
     "Nationality": "Indian",
     "Role": "Batsmann",
-    "Auction Price": 470000
+    "Auction": 470000
   },
 
   {
@@ -139,7 +139,7 @@
     "Born": "Apr 30, 1987 (33 years)",
     "Nationality": "Indian",
     "Role": "Batsman",
-    "Auction Price": 340000
+    "Auction": 340000
   },
   {
     "id": 16,
@@ -148,6 +148,6 @@
     "Born": "Jul 07, 1981 (39 years)",
     "Nationality": "Indian",
     "Role": "WK-Batsman",
-    "Auction Price": 350000
+    "Auction": 350000
   }
 ]

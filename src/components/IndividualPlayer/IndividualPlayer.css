@@ -1,6 +1,15 @@
 .individual-player {
-  text-align: center;
   width: 250px;
   height: auto;
   border: 1px dashed red;
+}
+
+.individual-player-intro {
+  display: flex;
+  align-content: space-between;
+  margin: 5px;
+}
+
+.individual-player-detail-info {
+  text-align: center;
 }
