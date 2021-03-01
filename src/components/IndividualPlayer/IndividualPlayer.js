@@ -1,6 +1,5 @@
 import React from "react";
 import { Card, Button, ListGroup } from "react-bootstrap";
-import "./IndividualPlayer.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faUserPlus } from "@fortawesome/free-solid-svg-icons";
 

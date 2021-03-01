@@ -64,6 +64,7 @@ function App() {
               </ListGroup.Item>
               <ListGroup.Item>
                 <h6>Players name & auction price</h6>
+
                 {teamPlayers.map((player) => (
                   <SelectedPlayers
                     key={player.id}
