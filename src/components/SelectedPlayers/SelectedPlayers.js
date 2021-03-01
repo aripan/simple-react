@@ -1,9 +1,12 @@
 import React from "react";
 
-const SelectedPlayers = () => {
+const SelectedPlayers = (props) => {
+  const { name, Auction } = props.player;
   return (
     <div>
-      <p>Name-price</p>
+      <p>
+        {name}, ${Auction}
+      </p>
     </div>
   );
 };

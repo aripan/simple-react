@@ -7,7 +7,7 @@ const IndividualPlayer = (props) => {
   return (
     <div className="individual-player">
       <div className="individual-player-intro">
-        <img style={{ width: "150px" }} src={image} alt="" />
+        <img style={{ width: "150px", height: "100px" }} src={image} alt="" />
         <h3 style={{ paddingLeft: "15px" }}>{name}</h3>
       </div>
       <div className="individual-player-detail-info">
@@ -22,10 +22,12 @@ const IndividualPlayer = (props) => {
           <strong>Role:</strong> <em>{Role}</em>
         </p>
         <p>
-          <strong>Auction Price:</strong> <em>{Auction}</em>
+          <strong>Auction Price:</strong> <em>${Auction}</em>
         </p>
       </div>
-      <button onClick={props.handleAddPlayer}>Add to Team</button>
+      <button onClick={() => props.handleAddPlayer(props.player)}>
+        Add to Team
+      </button>
     </div>
   );
 };

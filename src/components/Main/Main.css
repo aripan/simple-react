@@ -1,14 +1,17 @@
 .main {
   display: flex;
-  min-height: 80vh;
 }
-
 .players-container {
-  width: 70%;
+  width: 80%;
+  /* display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto;
+  gap: 10px; */
   border: 1px solid blue;
+  padding: 10px;
 }
 
 .team-container {
-  width: 30%;
+  width: 20%;
   border: 1px solid black;
 }
