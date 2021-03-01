@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
-import Header from "./components/Header/Header";
 import IndividualPlayer from "./components/IndividualPlayer/IndividualPlayer";
 import playerInformation from "./fake data/fakeData.json";
 import SelectedPlayers from "./components/SelectedPlayers/SelectedPlayers";
@@ -11,9 +10,14 @@ function App() {
   const [teamPlayers, setTeamPlayers] = useState([]);
 
   const handleAddPlayer = (player) => {
-    const newList = [...teamPlayers, player];
-    setTeamPlayers(newList);
-    console.log(newList);
+    let indexValue = teamPlayers.indexOf(player);
+    if (indexValue === -1) {
+      const newList = [...teamPlayers, player];
+      setTeamPlayers(newList);
+      console.log(newList);
+    } else {
+      alert("Selected already");
+    }
   };
 
   useEffect(() => {
@@ -27,10 +31,17 @@ function App() {
 
   return (
     <div className="App">
-      <Header className="header"></Header>
+      <h1 className="header">Record Setter Eleven</h1>
+
       <div className="players-container">
-        <h2 style={{ textAlign: "center" }}>Players</h2>
         <Container>
+          <h2 style={{ textAlign: "center" }}>
+            Players (available:{" "}
+            {players.length - teamPlayers.length > 0
+              ? players.length - teamPlayers.length
+              : "---"}
+            / selected: {teamPlayers.length > 16 ? "DONE" : teamPlayers.length})
+          </h2>
           <Row>
             {players.map((player) => (
               <Col sm={12} md={6} lg={4} key={player.id}>
@@ -44,8 +55,8 @@ function App() {
         </Container>
       </div>
       <div className="team-container">
-        <h2 style={{ textAlign: "center" }}>Selected Team</h2>
-        <Container>
+        <Container className="team-selection">
+          <h2 style={{ textAlign: "center" }}>Selected Team</h2>
           <Card style={{ width: "16rem" }}>
             <ListGroup variant="flush">
               <ListGroup.Item>

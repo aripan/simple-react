@@ -1,5 +1,9 @@
 .header {
   grid-area: header;
+  text-align: center;
+  font-style: italic;
+  color: white;
+  background-color: teal;
 }
 
 .players-container {
@@ -12,10 +16,15 @@
 
 .App {
   display: grid;
-  grid-template-columns: 2fr 1fr 0.5fr 0.5fr;
+  grid-template-columns: 2fr 1fr 0.2fr 0.5fr;
   grid-template-rows: 3% 97%;
 
   grid-template-areas:
     "header header header header"
     "players players . team";
+}
+
+.team-selection {
+  position: sticky;
+  top: 0;
 }
